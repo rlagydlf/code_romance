@@ -19,7 +19,7 @@
 ## 설치 및 실행
 ```bash
 # 저장소 클론
-git clone [your-repository-url]
+git clone https://github.com/rlagydlf/code_romance
 cd py_project
 
 # Python 실행
